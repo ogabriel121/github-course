@@ -15,5 +15,3 @@ This is my official Github where I post projects that I'm really happy to have d
 ## Acesse meus sites
 
 - [linktree](https://gabrielaraujobarbosa.github.io/HelloWorld/)
-
-- [Em construção](./#)
